@@ -1,7 +1,20 @@
-###   HOLA 👋
-**BIENVENIDOS A MI PAGINA DE GIT HUB**
+###   HOLA AMIGOS 👋
+**BIENVENIDOS**
 ### ANALISTA PROGRAMADOR
+  Soy un entusiasta estudiante de analista programador, estoy buscando experiencia sobre el ramo.
 ### TECNOLOGIAS
+  **lenguajes**
+  c# - python
+  
+  **Framework**
+  .net
+  
+  **ID**
+  Visual code
+  Visual Studio
+  
+  
+  
 <!--
 **richardc-dev/richardc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
