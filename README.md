@@ -3,6 +3,7 @@
 ### ANALISTA PROGRAMADOR
   Soy un entusiasta estudiante de analista programador, estoy buscando experiencia sobre el ramo.
 ### TECNOLOGIAS
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
   **lenguajes**
   c# - python
   
