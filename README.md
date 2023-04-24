@@ -1,5 +1,5 @@
 ###   HOLA AMIGOS 👋
-**BIENVENIDOS**
+**BIENVENIDOS** :atom:
 ### ANALISTA PROGRAMADOR
   Soy un entusiasta estudiante de analista programador, estoy buscando experiencia sobre el ramo.
 ### TECNOLOGIAS
