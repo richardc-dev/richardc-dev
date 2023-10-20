@@ -12,10 +12,12 @@
   
   **Framework**
   .net
+  
   **ID**
   Visual code
   Visual Studio
-  ### VISITA MI [PAGINA WEB](http://richardcc.cl/)
+ 
+  
   
   
   
