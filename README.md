@@ -1,11 +1,14 @@
 ###   HOLA AMIGOS 👋
 **BIENVENIDOS** :atom:
 ### ANALISTA PROGRAMADOR
-  Soy un entusiasta estudiante de analista programador, estoy buscando experiencia sobre el ramo.
+  Soy analista programador, estoy buscando experiencia en el ramo.
 ### TECNOLOGIAS
 
   **lenguajes**
-  c# - python
+  c# - python - javascript
+
+  **Diseño**
+  html - css
   
   **Framework**
   .net
