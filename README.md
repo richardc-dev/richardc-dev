@@ -1,17 +1,17 @@
 ###   HOLA AMIGOS 👋
 **BIENVENIDOS** :atom:
 ### ANALISTA PROGRAMADOR
-  Soy analista programador, estoy buscando experiencia en el ramo.
+  Soy analista programador, me dedico al desarrollo web u automatizacion de tareas.
 ### TECNOLOGIAS
 
   **lenguajes**
-  c# - python - javascript
+  PHP, JS Y C#
 
-  **Diseño**
-  html - css
+  **Marcado y estilo**
+  html - css - bootstrap
   
   **Framework**
-  .net
+  laravel y .net
   
   **ID**
   Visual code
