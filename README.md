@@ -1,9 +1,7 @@
-###   HOLA AMIGOS 👋
-**BIENVENIDOS** :atom:
-### ANALISTA PROGRAMADOR
-
-  Soy analista programador, me dedico al desarrollo web u automatizacion de tareas.
-### TECNOLOGIAS
+###   HOLA BIENVENIDOS 👋
+###   MI NOMBRE ES RICHARD
+Soy programador y me dedico al desarrollo web, automatizacion de tareas para aumentar la productividad y emprendedor.
+### TECNOLOGíAS
 | **Lenguajes** | dominio       |
 | ------------- |:-------------:|
 |      PHP      | Avanzado      |
@@ -20,6 +18,11 @@
   **ID**
   Visual code
   Visual Studio
+  ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://richardcc.cl/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-eduardo-calderon-castillo)
+<!--![YouTube Channel Views](https://img.shields.io/youtube/channel/views/:channelId)-->
+
  
   
   
