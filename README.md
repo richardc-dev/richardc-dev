@@ -3,6 +3,12 @@
 ### ANALISTA PROGRAMADOR
   Soy analista programador, me dedico al desarrollo web u automatizacion de tareas.
 ### TECNOLOGIAS
+| **Lenguajes** | dominio       |
+| ------------- |:-------------:|
+|      PHP      | Avanzado      |
+|  Javascript   | Intermedio    |          |
+|    Python     | Intermedio    |
+|      C#       | Intermedio    |
 
   **lenguajes**
   PHP, JS Y C#
