@@ -1,11 +1,11 @@
 ###   HOLA BIENVENIDOS 👋
-###   MI NOMBRE ES RICHARD
-Soy programador y me dedico al desarrollo web, automatizacion de tareas para aumentar la productividad y emprendedor.
-### TECNOLOGíAS
+###   Mi nombre es Richard
+*Soy analista programador y me dedico al desarrollo web y creacion de sistemas informaticos*💻
+### TECNOLOGíAS Y HERRAMIENTAS 🛠️
 | **Lenguajes** | dominio       |
 | ------------- |:-------------:|
 |      PHP      | Avanzado      |
-|  Javascript   | Intermedio    |          |
+|  Javascript   | Intermedio    |          
 |    Python     | Intermedio    |
 |      C#       | Intermedio    |
 
@@ -17,8 +17,17 @@ Soy programador y me dedico al desarrollo web, automatizacion de tareas para aum
   
   **ID**
   Visual code
-  Visual Studio
-  ## 🔗 Links
+  Visual Studio  
+  ## 🌟 Proyectos Destacados
+
+- **[WebProfile](https://github.com/richardc-dev/webProfile)**: Sitio web basico, para mostrar datos profesionales, servicios y datos de contacto de una persona.
+
+## 🌱 Actualmente aprendiendo
+
+Expandiendo conocimientos en los framewok Laravel y django. Me gusta estar al día con las últimas tendencias y mejorar mis habilidades constantemente.
+
+## 📫 ¿Cómo contactarme?
+ ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://richardcc.cl/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-eduardo-calderon-castillo)
 <!--![YouTube Channel Views](https://img.shields.io/youtube/channel/views/:channelId)-->
