@@ -12,8 +12,11 @@
   **Marcado y estilo**
   html - css - bootstrap
   
-  **Framework**
-  laravel y .net
+| **Framework** | dominio       |
+| ------------- |:-------------:|
+|   Laravel     | Avanzado      |
+|     .net      | básico        |          
+
   
   **ID**
   Visual code
