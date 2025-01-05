@@ -2,6 +2,10 @@
 ###   Mi nombre es Richard
 *Soy analista programador y me dedico al desarrollo web y creacion de sistemas informaticos*💻
 ### TECNOLOGíAS Y HERRAMIENTAS 🛠️
+
+**Marcado y estilo**
+  html - css - bootstrap
+
 | **Lenguajes** | dominio       |
 | ------------- |:-------------:|
 |      PHP      | Avanzado      |
@@ -9,25 +13,33 @@
 |    Python     | Intermedio    |
 |      C#       | Intermedio    |
 
-  **Marcado y estilo**
-  html - css - bootstrap
   
 | **Framework** | dominio       |
 | ------------- |:-------------:|
 |   Laravel     | Avanzado      |
-|     .net      | básico        |          
+|     .net      | básico        |  
+
+|    **CMS**    | dominio       |
+| ------------- |:-------------:|
+|   Wordpress   | Avanzado      |
 
   
-  **ID**
-  Visual code
-  Visual Studio  
-  ## 🌟 Proyectos Destacados
+**ID**
+Visual code
+Visual Studio  
+## 🌟 Proyectos Destacados
 
 - **[WebProfile](https://github.com/richardc-dev/webProfile)**: Sitio web basico, para mostrar datos profesionales, servicios y datos de contacto de una persona.
 
+## ▶️ Demostraciones disponibles
+- **[WebProfile](https://richardc-dev.github.io/webProfile/)**:Sitio web basico hecho en html
+- **[eBook landing page](https://landing.richardcc.dev/)**:Landing page hecha en wordpress con funcionalidad para descargar un eBook de prueba
+
 ## 🌱 Actualmente aprendiendo
 
-Expandiendo conocimientos en los framewok Laravel y django. Me gusta estar al día con las últimas tendencias y mejorar mis habilidades constantemente.
+- Vue.js
+- Ingles
+- linux (bash)
 
 ## 📫 ¿Cómo contactarme?
  ## 🔗 Links
