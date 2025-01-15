@@ -1,49 +1,57 @@
-###   HOLA BIENVENIDOS 👋
-###   Mi nombre es Richard
-*Soy analista programador y me dedico al desarrollo web y creacion de sistemas informaticos*💻
-### TECNOLOGíAS Y HERRAMIENTAS 🛠️
+# Richard Calderón
+# Programming analyst, web development and creation of computer systems. 💻
+## **Languages** :arrow_down:
 
-**Marcado y estilo**
-  html - css - bootstrap
+| **Languages**  | Level           | Information                                     |
+| -------------  |---------------  |:-----------------------------------------------:|
+| **PHP**        | Proficient      |php + framework laravel - monolith and rest api|
+| **Javascript** | Intermediate    |Dom manipulation, ajax when using pure php       |      
+| **Python**     | Intermediate    |Automation of desktop and office tasks  |
+| **C#**         | Intermediate    |For desktop programs                     |
+|**SQL**         | Proficient      |Efficient database management and data analysis.|
 
-| **Lenguajes** | dominio       |
+## **Frameworks** :arrow_down:
+| **Framework** | Level       |Type of projects|
+| ------------- |:-------------:|:---------------:|
+|   Laravel     | Proficient      |Web development, breze, jetstream, rest api and monoliths|
+|     .net      | Intermediate    |Windows form|  
+
+## **Database tools** :arrow_down:
+| **Tool** | level       |
 | ------------- |:-------------:|
-|      PHP      | Avanzado      |
-|  Javascript   | Intermedio    |          
-|    Python     | Intermedio    |
-|      C#       | Intermedio    |
+| DBeaver     | Proficient      |
+| MySql    | Proficient        |
+| HeidiSQL    | Proficient        |
+| MySql    | Proficient        |
+| phpMyAdmin    | Proficient        |
 
-  
-| **Framework** | dominio       |
+## **CMS** :arrow_down:
+
+|    **CMS**    | Level       |
 | ------------- |:-------------:|
-|   Laravel     | Avanzado      |
-|     .net      | básico        |  
+|   Wordpress   | Proficient|
 
-|    **CMS**    | dominio       |
-| ------------- |:-------------:|
-|   Wordpress   | Avanzado      |
+## Markup and style :arrow_down: 
+| **html - css - bootstrap - tailwidCss**|
+| -------------------------------------- |
 
-  
-**ID**
-Visual code
-Visual Studio  
-## 🌟 Proyectos Destacados
-
-- **[WebProfile](https://github.com/richardc-dev/webProfile)**: Sitio web basico, para mostrar datos profesionales, servicios y datos de contacto de una persona.
-
-## ▶️ Demostraciones disponibles
-- **[WebProfile](https://richardc-dev.github.io/webProfile/)**:Sitio web basico hecho en html
-- **[eBook landing page](https://landing.richardcc.dev/)**:Landing page hecha en wordpress con funcionalidad para descargar un eBook de prueba
-
-## 🌱 Actualmente aprendiendo
+## 🌱 Currently learning
 
 - Vue.js
-- Ingles
+- English
 - linux (bash)
 
-## 📫 ¿Cómo contactarme?
- ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://richardcc.cl/)
+  
+## 🌟 Projects :arrow_down_small: 
+
+**Updating  15-01-2025
+
+## ▶️ Demo available
+**Updating.. 15-01-2025
+
+
+## 📫 how to contact me?
+## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-eduardo-calderon-castillo)
 <!--![YouTube Channel Views](https://img.shields.io/youtube/channel/views/:channelId)-->
 
